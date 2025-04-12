@@ -81,10 +81,12 @@
   }
  
 .prom-block_close-btn{
+  position:absolute;
+  top:1.44rem;
+  right: 1.197%;
 border:none;
 background:none;
-
-right: 20px;
+cursor: pointer;
 }
 
 .prom-block_image{
